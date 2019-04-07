@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "303527555717",
+    "firebase_url": "https://smarttravellerapp.firebaseio.com",
+    "project_id": "smarttravellerapp",
+    "storage_bucket": "smarttravellerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303527555717:android:f0ec0f42638da297",
+        "android_client_info": {
+          "package_name": "com.example.puneet.smarttravellerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303527555717-em1pvcvcd840ijqi8jpefpjl9doj8csv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.puneet.smarttravellerapp",
+            "certificate_hash": "913342f8c7c25bd07c0833c1813d894aea282dd0"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-zye70iC4_AJHoVQCggtGxuTEoAVhlYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303527555717-7aho42tu2fk1q4raltoeof89vfpr5aig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

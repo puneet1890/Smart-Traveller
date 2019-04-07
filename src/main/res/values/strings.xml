@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SmartTravellerApp</string>
+
+    <string name="et_Login_Email">Enter your email-id</string>
+    <string name="et_Login_Pass">Enter your password</string>
+    <string name="btn_Login_Login">Login</string>
+    <string name="btn_Login_Register">SignUp</string>
+
+    <string name="et_Registration_Name">Name</string>
+    <string name="et_Registration_Email">Email</string>
+    <string name="et_Registration_Password">Password</string>
+    <string name="et_Registration_Confirm_Password">Confirm Password</string>
+    <string name="btn_Registration_Register">Register</string>
+    <string name="btn_Registration_Login">Login</string>
+
+    <string name="tv_Dashboard_Msg">Welcome</string>
+    <string name="btn_Dashboard_Logout">Logout</string>
+    <string name="et_Dashboard_Numofhours">Enter num of hours to explore</string>
+    <string name="et_Dashboard_Location">Location/Landmark to navigate</string>
+    <string name="btn_Dashboard_Navigate">Navigate</string>
+    <string name="btn_Dashboard_Search">Search</string>
+
+    <string name="title_activity_maps">Map</string>
+</resources>

@@ -1,0 +1,492 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:2:1-51:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1457690a414511dfb31bde9a81b047c2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\098cb988e3df489c759f372080e8d383\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\6407ceb5dafc7e4c8c00afc743e0107a\AndroidManifest.xml:17:1-38:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c76536d866f704ef8c206e06170feaf8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\2977a46c495e31e8d4dd860401d59b51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\564e3a6f7039cfcc9f62e875778e14bd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\697af523a83cd7c63ee43d7a44dd319b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\e26c09e9d73b51e9c15684d19cac8c76\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\67672252fc0de829736a389a8ba2a8da\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\284eb1c065ff61ba81c2c3784f3ed2d0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8707736ba7fea941aff1e1c152a9ec31\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\9cdb10e066aae7a14f372eceae04aaef\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\00713afd265fe1ed0b060fc74240d6af\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\ec291c0297c31a95e60d8f3c3590ad20\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-16.4.0.aar\cb92ef02fc4732b3b152b2e042a61d6e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\258fb3191cc1daef3782e0b659dedf5a\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\425cfc49ece2d107aeb2691163679de4\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.4.0.aar\8d5bea48f2410eec93ae9b3bb29928a8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\288aa849d72fd05a7d41bfa8955f66ef\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\56e375ab0ef215f3d1c48e52d9434098\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\5a8e6060afb52eec05612b39cb13f3b6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\bb0e89a486246423029ddbe505fd43c4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0f9e3d5b93d63cf56ff317530dc3a7b8\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4114108a0162be5b603461b4a8d81931\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\550256882b6dce593c0d8e470d9768fb\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\94c33aab529df139c7093187d1bc6eb4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\17866695761c543436baf3347b903469\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\aa4dff5bc309d70fa4bf1f3e63e8f632\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a9776b6da4d263551dc9c9174ddcc4f6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\8e0b385587c59697d4ffef6bf5f2461a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\500609b3cce1369130818d4bb9bbfbb4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5baed13cd28841753ed0d6a4e51d3492\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0acbcbf3c132fde32e537588b9bfa6d2\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\6407ceb5dafc7e4c8c00afc743e0107a\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\6407ceb5dafc7e4c8c00afc743e0107a\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\67672252fc0de829736a389a8ba2a8da\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\67672252fc0de829736a389a8ba2a8da\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\258fb3191cc1daef3782e0b659dedf5a\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\258fb3191cc1daef3782e0b659dedf5a\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\425cfc49ece2d107aeb2691163679de4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\425cfc49ece2d107aeb2691163679de4\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\6407ceb5dafc7e4c8c00afc743e0107a\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\6407ceb5dafc7e4c8c00afc743e0107a\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\67672252fc0de829736a389a8ba2a8da\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\67672252fc0de829736a389a8ba2a8da\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\258fb3191cc1daef3782e0b659dedf5a\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\258fb3191cc1daef3782e0b659dedf5a\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\425cfc49ece2d107aeb2691163679de4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\425cfc49ece2d107aeb2691163679de4\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:12:5-98
+	android:name
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:12:22-95
+application
+ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:14:5-49:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1457690a414511dfb31bde9a81b047c2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1457690a414511dfb31bde9a81b047c2\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\098cb988e3df489c759f372080e8d383\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\098cb988e3df489c759f372080e8d383\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\6407ceb5dafc7e4c8c00afc743e0107a\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\6407ceb5dafc7e4c8c00afc743e0107a\AndroidManifest.xml:30:5-36:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c76536d866f704ef8c206e06170feaf8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c76536d866f704ef8c206e06170feaf8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\564e3a6f7039cfcc9f62e875778e14bd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\564e3a6f7039cfcc9f62e875778e14bd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\697af523a83cd7c63ee43d7a44dd319b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\697af523a83cd7c63ee43d7a44dd319b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\e26c09e9d73b51e9c15684d19cac8c76\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\e26c09e9d73b51e9c15684d19cac8c76\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\67672252fc0de829736a389a8ba2a8da\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\67672252fc0de829736a389a8ba2a8da\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\284eb1c065ff61ba81c2c3784f3ed2d0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\284eb1c065ff61ba81c2c3784f3ed2d0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8707736ba7fea941aff1e1c152a9ec31\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8707736ba7fea941aff1e1c152a9ec31\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\9cdb10e066aae7a14f372eceae04aaef\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\9cdb10e066aae7a14f372eceae04aaef\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\00713afd265fe1ed0b060fc74240d6af\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\00713afd265fe1ed0b060fc74240d6af\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\ec291c0297c31a95e60d8f3c3590ad20\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\ec291c0297c31a95e60d8f3c3590ad20\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-16.4.0.aar\cb92ef02fc4732b3b152b2e042a61d6e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-16.4.0.aar\cb92ef02fc4732b3b152b2e042a61d6e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\258fb3191cc1daef3782e0b659dedf5a\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\258fb3191cc1daef3782e0b659dedf5a\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\425cfc49ece2d107aeb2691163679de4\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\425cfc49ece2d107aeb2691163679de4\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.4.0.aar\8d5bea48f2410eec93ae9b3bb29928a8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.4.0.aar\8d5bea48f2410eec93ae9b3bb29928a8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\288aa849d72fd05a7d41bfa8955f66ef\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\288aa849d72fd05a7d41bfa8955f66ef\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\56e375ab0ef215f3d1c48e52d9434098\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\56e375ab0ef215f3d1c48e52d9434098\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\5a8e6060afb52eec05612b39cb13f3b6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\5a8e6060afb52eec05612b39cb13f3b6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\bb0e89a486246423029ddbe505fd43c4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\bb0e89a486246423029ddbe505fd43c4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0f9e3d5b93d63cf56ff317530dc3a7b8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0f9e3d5b93d63cf56ff317530dc3a7b8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4114108a0162be5b603461b4a8d81931\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4114108a0162be5b603461b4a8d81931\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\550256882b6dce593c0d8e470d9768fb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\550256882b6dce593c0d8e470d9768fb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\94c33aab529df139c7093187d1bc6eb4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\94c33aab529df139c7093187d1bc6eb4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\17866695761c543436baf3347b903469\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\17866695761c543436baf3347b903469\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\aa4dff5bc309d70fa4bf1f3e63e8f632\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\aa4dff5bc309d70fa4bf1f3e63e8f632\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a9776b6da4d263551dc9c9174ddcc4f6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a9776b6da4d263551dc9c9174ddcc4f6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\8e0b385587c59697d4ffef6bf5f2461a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\8e0b385587c59697d4ffef6bf5f2461a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\500609b3cce1369130818d4bb9bbfbb4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\500609b3cce1369130818d4bb9bbfbb4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5baed13cd28841753ed0d6a4e51d3492\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5baed13cd28841753ed0d6a4e51d3492\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0acbcbf3c132fde32e537588b9bfa6d2\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0acbcbf3c132fde32e537588b9bfa6d2\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:18:9-35
+	android:roundIcon
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.example.puneet.smarttravellerapp.LoginActivity
+ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:20:9-25:20
+	android:label
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:20:49-81
+	android:name
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:20:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:23:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:34:9-36:55
+	android:value
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:36:13-52
+	android:name
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:35:13-58
+activity#com.example.puneet.smarttravellerapp.MapsActivity
+ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:38:9-44:20
+	android:label
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:39:13-41
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:41:13-43:90
+	android:value
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:43:17-87
+	android:name
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:42:17-63
+activity#com.example.puneet.smarttravellerapp.DashboardActivity
+ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:45:9-55
+	android:name
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:45:19-52
+activity#com.example.puneet.smarttravellerapp.RegistrationActivity
+ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:46:9-48:59
+	android:parentActivityName
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml:47:13-49
+uses-sdk
+INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1457690a414511dfb31bde9a81b047c2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1457690a414511dfb31bde9a81b047c2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\098cb988e3df489c759f372080e8d383\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\098cb988e3df489c759f372080e8d383\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\6407ceb5dafc7e4c8c00afc743e0107a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\6407ceb5dafc7e4c8c00afc743e0107a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c76536d866f704ef8c206e06170feaf8\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c76536d866f704ef8c206e06170feaf8\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\2977a46c495e31e8d4dd860401d59b51\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\2977a46c495e31e8d4dd860401d59b51\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\564e3a6f7039cfcc9f62e875778e14bd\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\564e3a6f7039cfcc9f62e875778e14bd\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\697af523a83cd7c63ee43d7a44dd319b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\697af523a83cd7c63ee43d7a44dd319b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\e26c09e9d73b51e9c15684d19cac8c76\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\e26c09e9d73b51e9c15684d19cac8c76\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\67672252fc0de829736a389a8ba2a8da\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\67672252fc0de829736a389a8ba2a8da\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\284eb1c065ff61ba81c2c3784f3ed2d0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\284eb1c065ff61ba81c2c3784f3ed2d0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8707736ba7fea941aff1e1c152a9ec31\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8707736ba7fea941aff1e1c152a9ec31\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\9cdb10e066aae7a14f372eceae04aaef\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\9cdb10e066aae7a14f372eceae04aaef\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\00713afd265fe1ed0b060fc74240d6af\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\00713afd265fe1ed0b060fc74240d6af\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\ec291c0297c31a95e60d8f3c3590ad20\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\ec291c0297c31a95e60d8f3c3590ad20\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-16.4.0.aar\cb92ef02fc4732b3b152b2e042a61d6e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-16.4.0.aar\cb92ef02fc4732b3b152b2e042a61d6e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\258fb3191cc1daef3782e0b659dedf5a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\258fb3191cc1daef3782e0b659dedf5a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\425cfc49ece2d107aeb2691163679de4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\425cfc49ece2d107aeb2691163679de4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.4.0.aar\8d5bea48f2410eec93ae9b3bb29928a8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.4.0.aar\8d5bea48f2410eec93ae9b3bb29928a8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\288aa849d72fd05a7d41bfa8955f66ef\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\288aa849d72fd05a7d41bfa8955f66ef\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\56e375ab0ef215f3d1c48e52d9434098\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\56e375ab0ef215f3d1c48e52d9434098\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\5a8e6060afb52eec05612b39cb13f3b6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\5a8e6060afb52eec05612b39cb13f3b6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\bb0e89a486246423029ddbe505fd43c4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\bb0e89a486246423029ddbe505fd43c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0f9e3d5b93d63cf56ff317530dc3a7b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0f9e3d5b93d63cf56ff317530dc3a7b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4114108a0162be5b603461b4a8d81931\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4114108a0162be5b603461b4a8d81931\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\550256882b6dce593c0d8e470d9768fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\550256882b6dce593c0d8e470d9768fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\94c33aab529df139c7093187d1bc6eb4\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\94c33aab529df139c7093187d1bc6eb4\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\17866695761c543436baf3347b903469\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\17866695761c543436baf3347b903469\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\aa4dff5bc309d70fa4bf1f3e63e8f632\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\aa4dff5bc309d70fa4bf1f3e63e8f632\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a9776b6da4d263551dc9c9174ddcc4f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a9776b6da4d263551dc9c9174ddcc4f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\8e0b385587c59697d4ffef6bf5f2461a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\8e0b385587c59697d4ffef6bf5f2461a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\500609b3cce1369130818d4bb9bbfbb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\500609b3cce1369130818d4bb9bbfbb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5baed13cd28841753ed0d6a4e51d3492\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5baed13cd28841753ed0d6a4e51d3492\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0acbcbf3c132fde32e537588b9bfa6d2\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0acbcbf3c132fde32e537588b9bfa6d2\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c76536d866f704ef8c206e06170feaf8\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Puneet\AndroidStudioProjects\SmartTravellerApp\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\6407ceb5dafc7e4c8c00afc743e0107a\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\6407ceb5dafc7e4c8c00afc743e0107a\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\6407ceb5dafc7e4c8c00afc743e0107a\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\6407ceb5dafc7e4c8c00afc743e0107a\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\6407ceb5dafc7e4c8c00afc743e0107a\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\6407ceb5dafc7e4c8c00afc743e0107a\AndroidManifest.xml:34:13-50
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c76536d866f704ef8c206e06170feaf8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\564e3a6f7039cfcc9f62e875778e14bd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\564e3a6f7039cfcc9f62e875778e14bd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0f9e3d5b93d63cf56ff317530dc3a7b8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0f9e3d5b93d63cf56ff317530dc3a7b8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4114108a0162be5b603461b4a8d81931\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4114108a0162be5b603461b4a8d81931\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\550256882b6dce593c0d8e470d9768fb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\550256882b6dce593c0d8e470d9768fb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\94c33aab529df139c7093187d1bc6eb4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\94c33aab529df139c7093187d1bc6eb4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\17866695761c543436baf3347b903469\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\17866695761c543436baf3347b903469\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\aa4dff5bc309d70fa4bf1f3e63e8f632\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\aa4dff5bc309d70fa4bf1f3e63e8f632\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a9776b6da4d263551dc9c9174ddcc4f6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a9776b6da4d263551dc9c9174ddcc4f6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\8e0b385587c59697d4ffef6bf5f2461a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\8e0b385587c59697d4ffef6bf5f2461a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\500609b3cce1369130818d4bb9bbfbb4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\500609b3cce1369130818d4bb9bbfbb4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5baed13cd28841753ed0d6a4e51d3492\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5baed13cd28841753ed0d6a4e51d3492\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c76536d866f704ef8c206e06170feaf8\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c76536d866f704ef8c206e06170feaf8\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\67672252fc0de829736a389a8ba2a8da\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\258fb3191cc1daef3782e0b659dedf5a\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\258fb3191cc1daef3782e0b659dedf5a\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\425cfc49ece2d107aeb2691163679de4\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\425cfc49ece2d107aeb2691163679de4\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\67672252fc0de829736a389a8ba2a8da\AndroidManifest.xml:24:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\67672252fc0de829736a389a8ba2a8da\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\67672252fc0de829736a389a8ba2a8da\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\67672252fc0de829736a389a8ba2a8da\AndroidManifest.xml:28:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\67672252fc0de829736a389a8ba2a8da\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\67672252fc0de829736a389a8ba2a8da\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\67672252fc0de829736a389a8ba2a8da\AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\428c72b554fa6b83844d874f9f9d0169\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8707736ba7fea941aff1e1c152a9ec31\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8707736ba7fea941aff1e1c152a9ec31\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8707736ba7fea941aff1e1c152a9ec31\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8707736ba7fea941aff1e1c152a9ec31\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\00713afd265fe1ed0b060fc74240d6af\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\00713afd265fe1ed0b060fc74240d6af\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\00713afd265fe1ed0b060fc74240d6af\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\00713afd265fe1ed0b060fc74240d6af\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\00713afd265fe1ed0b060fc74240d6af\AndroidManifest.xml:11:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\258fb3191cc1daef3782e0b659dedf5a\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\258fb3191cc1daef3782e0b659dedf5a\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\258fb3191cc1daef3782e0b659dedf5a\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\258fb3191cc1daef3782e0b659dedf5a\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\872f443607ed83aefe1ea8d70a4d0418\AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\bb0e89a486246423029ddbe505fd43c4\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\bb0e89a486246423029ddbe505fd43c4\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\bb0e89a486246423029ddbe505fd43c4\AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0acbcbf3c132fde32e537588b9bfa6d2\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0acbcbf3c132fde32e537588b9bfa6d2\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Puneet\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0acbcbf3c132fde32e537588b9bfa6d2\AndroidManifest.xml:26:13-58

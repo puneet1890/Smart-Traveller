@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DashboardActivity">
+
+    <Button
+        android:id="@+id/btn_Dashboard_Logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40dp"
+        android:hint="@string/btn_Dashboard_Logout"
+        android:onClick="dashboard_logout"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/btn_Dashboard_Search"
+        app:layout_constraintStart_toStartOf="@+id/btn_Dashboard_Search" />
+
+    <ListView
+        android:id="@+id/list_Dashboard_Display"
+        android:layout_width="380dp"
+        android:layout_height="200dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="60dp"
+        app:layout_constraintBottom_toTopOf="@+id/et_Dashboard_Location"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.466"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/et_Dashboard_Numofhours"
+        app:layout_constraintVertical_bias="0.892" />
+
+    <EditText
+        android:id="@+id/et_Dashboard_Numofhours"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="54dp"
+        android:layout_marginTop="72dp"
+        android:layout_marginEnd="54dp"
+        android:ems="10"
+        android:hint="@string/et_Dashboard_Numofhours"
+        android:inputType="text|number"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/et_Dashboard_Location"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="53dp"
+        android:ems="10"
+        android:hint="@string/et_Dashboard_Location"
+        android:inputType="text"
+        app:layout_constraintBaseline_toBaselineOf="@+id/btn_Dashboard_Search"
+        app:layout_constraintEnd_toStartOf="@+id/btn_Dashboard_Search"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btn_Dashboard_Navigate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="54dp"
+        android:layout_marginBottom="40dp"
+        android:hint="@string/btn_Dashboard_Navigate"
+        android:onClick="dashboard_navigate"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btn_Dashboard_Search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="54dp"
+        android:layout_marginBottom="37dp"
+        android:hint="@string/btn_Dashboard_Search"
+        android:onClick="search"
+        app:layout_constraintBottom_toTopOf="@+id/btn_Dashboard_Logout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/et_Dashboard_Location" />
+
+</android.support.constraint.ConstraintLayout>
